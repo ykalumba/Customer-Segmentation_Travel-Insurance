@@ -33,5 +33,12 @@ Index	Field	Description
 
 
 
+#  References
+   OpenSky Network Official Documentation
+   ADS-B and Mode S Surveillance Standards
+   REST API Design Patterns for Real-Time Data
+
+
+
 
 
