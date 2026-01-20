@@ -31,7 +31,10 @@ Index	Field	Description
 15	spi	             – Special Purpose Indicator
 16	position_source	– Position source (0 = ADS-B, 1 = ASTERIX, 2 = MLAT)
 
+This repository focuses on API data extraction, JSON parsing and normalization, mapping state vectors to structured datasets, preparing data for storage, namely, SQL databases, and supporting downstream analytics and visualization, forming a foundational pipeline for working with real-time and cumulative aviation data. 
+By transforming raw flight state information into structured information, the analysis enables practical applications such as interactive and continuously updating flight monitoring interfaces, analytical assessment of aircraft concentration and airspace congestion, and scalable ETL workflows for aviation data integration. 
 
+This creates a driving factor for predictive modeling, spatiotemporal movement analysis, and the monitoring of aircraft activity within defined geographic or regulatory airspace boundaries.
 
 #  References
    OpenSky Network Official Documentation
